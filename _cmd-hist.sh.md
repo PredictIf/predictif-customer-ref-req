@@ -197,3 +197,22 @@ graph TD
 4. **AWS Lambda**: Lambda functions scale automatically by running code in response to each trigger. Your triggers can be an uploaded image, a new log file, a new row in a database, etc.
 
 5. **Amazon CloudFront**: CloudFront is a content delivery network (CDN) that scales automatically and integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users.
+-------
+
+
+
+
+-----------------------------------------------------------------------------------
+
+
+Please help me to fill an assesment from AWS for applying for Amazon DynamoDB Service Delivery Program.
+I need to provide the evidence for the following item:
+"
+Detective Controls,
+Activity is monitored appropriately, including by maintenance of logs for capturing performance and security event data, e.g., CloudWatch logs, events, VPC Flow Logs, ELB logs, S3 bucket logs, application, logs, etc.
+
+Please provide the following as evidence:
+
+* Example of logs maintained, including demonstration that logs are retained per customer-agreed retention periods.
+"
+To help me, please produce the evidence required, which is: Example of logs maintained, including demonstration that logs are retained per customer-agreed retention periods
