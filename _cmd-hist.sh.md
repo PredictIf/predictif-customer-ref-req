@@ -216,3 +216,23 @@ Please provide the following as evidence:
 * Example of logs maintained, including demonstration that logs are retained per customer-agreed retention periods.
 "
 To help me, please produce the evidence required, which is: Example of logs maintained, including demonstration that logs are retained per customer-agreed retention periods
+
+
+https://github.com/PredictIf/predictif-customer-ref-req/blob/04d546548fddce45eb68c9efb270914482234367/EXMON-001.md
+
+-----------------------------------------------------------------------------------
+
+Please help me to fill an assesment from AWS for applying for Amazon DynamoDB Service Delivery Program.
+I need to provide the evidence for the following item:
+
+
+"Automate Deployment and leverage infrastructure-as-code tools.
+Changes to infrastructure are automated for customer implementation
+
+* Tools like AWS CloudFormation, the AWS CLI, or other scripting tools were used for automation.
+* Changes to the production environment were not done using the AWS Management Console.
+"
+
+Please provide the following as evidence, even fictitious:
+
+* Written description of deployment automation and an example template (e.g., CloudFormation templates, architecture diagram for CI/CD pipeline) met the criteria defined above.
