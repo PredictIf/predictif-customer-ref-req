@@ -970,24 +970,25 @@ and Business value analysis numbers
 Line 26
 Concrete evidence
 
-Line 25
+Line 25 - DONE
 ECS refernces going to here and there
 
-Line 19
+Line 19 - DONE
 Redo Jerry's work
 
-Line 18.
+Line 18. - DONE
 Redo Jeff's work
 
-Line 13
+Line 13 - DONE
 Look at Jerrys
 
 -----------------------------------------------
-d - PRRP -001
+PRRP -001 - DONE
 line 49
 
 
 <https://github.com/PredictIf/predictif-customer-ref-req/blob/main/Analytics-ACCT-002.md>
+<https://github.com/PredictIf/predictif-customer-ref-req/blob/main/ACCT-002_md_1.md>
 
 
 
