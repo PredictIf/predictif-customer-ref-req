@@ -1200,3 +1200,6 @@ Please provide the following as evidence (required for all provided customer exa
 * An architecture diagram depicting the overall design and deployment of your solution on AWS.
 * Explanation of how the major solutions elements will keep running in case of failure.
 * Description of how the major solutions elements scale up automatically.
+
+
+<https://github.com/PredictIf/predictif-customer-ref-req/blob/main/DOC-001.md>

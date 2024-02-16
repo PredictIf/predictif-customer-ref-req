@@ -399,3 +399,10 @@ application in case of failure/outage.
 
 Create a diagram of Classic 3-tier Web App Architecture with AWS Services for our client Stress Engineering. Please show a highly available architecture that spans three Availability Zones, which contain Auto Scaling Groups of EC2 instances to easily scale up as well as to protect the
 application in case of failure/outage.
+
+
+[SES - Control Plane Arch. Diagram](https://github.com/PredictIf/predictif-customer-ref-req/blob/main/DOC-001.md)
+<https://github.com/PredictIf/predictif-customer-ref-req/blob/main/DOC-001.md>
+
+from:
+<https://medium.com/@aaloktrivedi/building-a-3-tier-web-application-architecture-with-aws-eb5981613e30>
